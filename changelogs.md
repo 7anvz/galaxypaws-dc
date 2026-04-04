@@ -8,8 +8,7 @@
 
 ---
 
-# [2.0.0] — 2026-XX-XX
-## Full Server Rework
+## Full Server Rework / 2.0.0 — 2026-XX-XX
 
 > **Major release** — Complete overhaul of systems, structure, and community experience.  
 > This update redefines how users interact, compete, and engage within the server.
