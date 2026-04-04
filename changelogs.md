@@ -1,5 +1,6 @@
 # Changelog
-
+[![Build status][build]][build-url]
+[![Coverage status][coverage]][coverage-url]
 All notable changes to this project will be documented in this file.
 
 
