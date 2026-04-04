@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 
 
 ### ✨ Added
-- [ ] Sistema de perfiles (<kbd>/profile<\kbd>)
+- [ ] Sistema de perfiles (<kbd>/profile</kbd>)
 - [ ] Achievements & badges (new → master)
 - [ ] Sistema de team (`/team`)
 - [ ] Sistema de soporte + tickets
