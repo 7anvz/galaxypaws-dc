@@ -1,69 +1,119 @@
-# Changelog
-[![Build status][build]][build-url]
-[![Coverage status][coverage]][coverage-url]
-All notable changes to this project will be documented in this file.
+# 🚀 Changelog
 
+[![Build Status][build]][build-url]
+[![Coverage Status][coverage]][coverage-url]
+[![Version][version]][version-url]
+
+> 📢 All notable changes to this project are documented here following **Conventional Commits**.
 
 ---
 
-## [2.0.0] — 2026-XX-XX
-### 🚀 Full Server Rework
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+# 🚀 [2.0.0] — 2026-XX-XX
+## 🌌 Full Server Rework
+
+> ⚡ **Major release** — Complete overhaul of systems, structure, and community experience.  
+> This update redefines how users interact, compete, and engage within the server.
+
+---
+
+## 🧩 Core Features
 
 ### ✨ Added
-- [ ] Sistema de perfiles (<kbd>/profile</kbd>)
-- [ ] Achievements & badges (new → master)
-- [ ] Sistema de team (<kbd>`/team</kbd>)
+- [ ] Sistema de perfiles (`/profile`)
+- [ ] Achievements & badges (progression system)
+- [ ] Sistema de equipos (`/team`)
 - [ ] Sistema de soporte + tickets
 - [ ] Sistema anti-inactividad (roles automáticos)
 - [ ] Bienvenida automática por DM
 - [ ] Torneos y eventos de comunidad
-- [ ] Canal para creadores (#clips-gameplay)
+- [ ] Canal para creadores (`#clips-gameplay`)
 - [ ] Recursos para jugadores (skins, macros, etc.)
 - [ ] Página de guía y documentación
 - [ ] FAQ del server y del juego
 - [ ] Integración con Wikipedia (wiki-bot)
 - [ ] Sistema musical mejorado
 - [ ] Canales exclusivos para miembros del clan
-- [ ] Server Navigation
-- [ ] Repositorio en GitHub
-- [ ] Nuevo modo de juego (Dani!)
+- [ ] Server Navigation (UX mejorada)
+- [ ] Repositorio oficial en GitHub
+- [ ] Nuevo modo de juego (**Dani Mode**)
 - [ ] Nuevos comandos personalizados
 
+---
+
+## 🎨 Experience & Improvements
 
 ### 🛠️ Changed
 - [ ] Rediseño completo de reglas
 - [ ] Mejora de bienvenidas y despedidas
 - [ ] Nueva política de boosters
 - [ ] Sistema de moderación (trial mods)
-- [ ] Mejora estética global (embeds, colores)
-- [ ] Reestructuración del servidor
-- [ ] Expansión de roles
-- [ ] Mejora en experiencia musical
-- [ ] Optimización de interacción general
+- [ ] Mejora estética global (embeds, colores, UI)
+- [ ] Reestructuración total del servidor
+- [ ] Expansión del sistema de roles
+- [ ] Optimización del sistema musical
+- [ ] Mejora en la interacción general
 
+---
+
+## 🛡️ Stability & Fixes
 
 ### 🐛 Fixed
 - [ ] Reconfiguración de auto-mod
-- [ ] Mejora de seguridad
-- [ ] Corrección de estructura anterior
+- [ ] Mejora de seguridad global
+- [ ] Corrección de estructura legacy
 - [ ] Optimización de experiencia del usuario
 
+---
 
-### 🤖 Bots
+## 🤖 Bot Ecosystem
+
 - [ ] Bots de seguridad, utilidad y entretenimiento
-- [ ] Bot personalizado
-- [ ] ServerStats
-- [ ] Wiki-bot
+- [ ] Bot personalizado del servidor
+- [ ] ServerStats (estadísticas en tiempo real)
+- [ ] Wiki-bot (integración informativa)
 
+---
+
+## 🗂️ Server Architecture
 
 ### 📂 Channels
-- [ ] Expansión completa de canales (texto, anuncios, foros, voz y escenarios)
+- [ ] Expansión completa (texto, anuncios, foros, voz y escenarios)
 - [ ] Separación de canales públicos y privados
-- [ ] Mejora en organización y navegación
+- [ ] Navegación optimizada
 
+---
+
+## 📊 Release Summary
+
+| Category        | Count |
+|----------------|------|
+| ✨ Features     | 18   |
+| 🛠️ Changes     | 9    |
+| 🐛 Fixes        | 4    |
+| 🤖 Bots         | 4    |
+| 📂 Channels     | 3    |
 
 ---
 
 ## 🏷️ Version
 `v2.0.0 — Full Server Rework`
+
+---
+
+## 🔮 Next Steps (Roadmap)
+- [ ] Sistema de economía 💰
+- [ ] Leaderboards globales 🏆
+- [ ] Integración con APIs externas
+- [ ] Dashboard web del servidor
+- [ ] Sistema de temporadas
+
+---
+
+<!-- conventional-changelog -->
+
+[build]: https://img.shields.io/badge/build-passing-brightgreen
+[build-url]: #
+[coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
+[coverage-url]: #
+[version]: https://img.shields.io/badge/version-2.0.0-blue
+[version-url]: #
