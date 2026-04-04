@@ -7,7 +7,7 @@
 ## ✨ Nuevas funciones del server
 
 ### ☆ Sistema de perfiles interactivo *(comando `/profile`)*
-- Visualización de datos del usuario *(monedas, nombre, progreso, etc.)*  
+- Visualización de datos del usuario *(nombre, progreso, etc.)*  
 - Base para futuras mecánicas del servidor  
 
 ### ☆ Sistema de **achivements & badges**
@@ -71,7 +71,7 @@
 - Mejor organización del contenido  
 - Gestión más profesional del proyecto  
 
-### ☆ Nuevo modo de juego exclusivo
+### ☆ Nuevo mod de juego exclusivo
 - Creado por Dani! *(especial del server)*  
 
 ### ☆ Nuevos comandos personalizados
