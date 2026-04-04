@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 
 ## [2.0.0] — 2026-XX-XX
 ### 🚀 Full Server Rework
-
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 ### ✨ Added
 - [ ] Sistema de perfiles (<kbd>/profile</kbd>)
