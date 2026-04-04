@@ -1,24 +1,24 @@
-# 🚀 Changelog
+# Changelog
 
 [![Build Status][build]][build-url]
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-> 📢 All notable changes to this project are documented here following **Conventional Commits**.
+> All notable changes to this project are documented here following **Conventional Commits**.
 
 ---
 
-# 🚀 [2.0.0] — 2026-XX-XX
-## 🌌 Full Server Rework
+# [2.0.0] — 2026-XX-XX
+## Full Server Rework
 
-> ⚡ **Major release** — Complete overhaul of systems, structure, and community experience.  
+> **Major release** — Complete overhaul of systems, structure, and community experience.  
 > This update redefines how users interact, compete, and engage within the server.
 
 ---
 
 ## 🧩 Core Features
 
-### ✨ Added
+### Added
 - [ ] Sistema de perfiles (`/profile`)
 - [ ] Achievements & badges (progression system)
 - [ ] Sistema de equipos (`/team`)
@@ -40,9 +40,9 @@
 
 ---
 
-## 🎨 Experience & Improvements
+## Experience & Improvements
 
-### 🛠️ Changed
+### Changed
 - [ ] Rediseño completo de reglas
 - [ ] Mejora de bienvenidas y despedidas
 - [ ] Nueva política de boosters
@@ -55,9 +55,9 @@
 
 ---
 
-## 🛡️ Stability & Fixes
+## Stability & Fixes
 
-### 🐛 Fixed
+### Fixed
 - [ ] Reconfiguración de auto-mod
 - [ ] Mejora de seguridad global
 - [ ] Corrección de estructura legacy
@@ -65,7 +65,7 @@
 
 ---
 
-## 🤖 Bot Ecosystem
+## Bot Ecosystem
 
 - [ ] Bots de seguridad, utilidad y entretenimiento
 - [ ] Bot personalizado del servidor
@@ -74,16 +74,16 @@
 
 ---
 
-## 🗂️ Server Architecture
+## Server Architecture
 
-### 📂 Channels
+### Channels
 - [ ] Expansión completa (texto, anuncios, foros, voz y escenarios)
 - [ ] Separación de canales públicos y privados
 - [ ] Navegación optimizada
 
 ---
 
-## 📊 Release Summary
+## Release Summary
 
 | Category        | Count |
 |----------------|------|
@@ -95,17 +95,13 @@
 
 ---
 
-## 🏷️ Version
+## Version
 `v2.0.0 — Full Server Rework`
 
 ---
 
-## 🔮 Next Steps (Roadmap)
-- [ ] Sistema de economía 💰
-- [ ] Leaderboards globales 🏆
-- [ ] Integración con APIs externas
-- [ ] Dashboard web del servidor
-- [ ] Sistema de temporadas
+## Next Steps (Roadmap)
+- [ ] Bot personalizado
 
 ---
 
