@@ -1,5 +1,5 @@
 # 🌎 Galaxy Paws 🐾
-## ✦ Release v2.0 — Full Server Rework
+## ✦ Release v2.0
 
 
 ---
