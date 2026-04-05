@@ -1,4 +1,5 @@
 # Changelog
+
 [![Discord](https://img.shields.io/discord/1408453330006577182?logo=discord&label=Discord&color=5865F2)](https://discord.gg/SQasBExHsK) 
 [![Build Status][build]][build-url] [![Coverage Status][coverage]][coverage-url] [![Version][version]][version-url]
 <a name="my-custom-anchor-point">
