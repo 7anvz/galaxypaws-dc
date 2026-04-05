@@ -88,7 +88,7 @@
 - `[nav]` — Navegación optimizada
 
 ---
-<details open>
+<details>
 
 <summary>More information</summary>
 
@@ -103,6 +103,8 @@ Channels: 3
 ```
 
 </details>
+
+<p>Recuerda que esta documentación está abierta a cambios. Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad </p>
 
 <!-- conventional-changelog -->
 [build]: https://img.shields.io/badge/build-passing-brightgreen
