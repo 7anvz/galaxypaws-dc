@@ -3,7 +3,7 @@
 [![Build Status][build]][build-url] [![Coverage Status][coverage]][coverage-url] [![Version][version]][version-url]
 <p> All notable changes to this project are documented here following. Conventional Commits </p>
 
-### Full server Rework <a color=red;>hola</a>
+### Full server Rework <a color=blue;>hola</a>
 **Major release** — Complete overhaul of systems, structure, and community experience.  
 > [!NOTE] 
 > *This update redefines how users interact, compete, and engage within the server.*
