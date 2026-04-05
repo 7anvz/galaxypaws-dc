@@ -124,7 +124,7 @@ Channels: 40+
 Recuerda que esta documentación está abierta a cambios. Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad
 
 <!-- conventional-changelog -->
-[build]: https://img.shields.io/badge/build-passing-brightgreen 
+[build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
 [coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
 [coverage-url]: #
