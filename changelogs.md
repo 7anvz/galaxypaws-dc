@@ -1,112 +1,123 @@
-# Changelog
+# 📋 Changelog
 
-[![Build Status][build]][build-url]
-[![Coverage Status][coverage]][coverage-url]
-[![Version][version]][version-url]
+[![Build Status][build]][build-url] [![Coverage Status][coverage]][coverage-url] [![Version][version]][version-url]
 
-> All notable changes to this project are documented here following **Conventional Commits**.
+> **All notable changes to this project are documented here following**  
+> *Conventional Commits*
 
 ---
-# [2.0.0] — 2026-XX-XX
----
-## Full Server Rework
+
+## `[2.0.0]` — `2026-XX-XX`
+
+### 🔄 `Full Server Rework`
 
 > **Major release** — Complete overhaul of systems, structure, and community experience.  
-> This update redefines how users interact, compete, and engage within the server.
+> *This update redefines how users interact, compete, and engage within the server.*
 
 ---
 
-## 🧩 Core Features
+### 🧩 Core Features
 
-### Added
-- [ ] Sistema de perfiles (`/profile`)
-- [ ] Achievements & badges (progression system)
-- [ ] Sistema de equipos (`/team`)
-- [ ] Sistema de soporte + tickets
-- [ ] Sistema anti-inactividad (roles automáticos)
-- [ ] Bienvenida automática por DM
-- [ ] Torneos y eventos de comunidad
-- [ ] Canal para creadores (`#clips-gameplay`)
-- [ ] Recursos para jugadores (skins, macros, etc.)
-- [ ] Página de guía y documentación
-- [ ] FAQ del server y del juego
-- [ ] Integración con Wikipedia (wiki-bot)
-- [ ] Sistema musical mejorado
-- [ ] Canales exclusivos para miembros del clan
-- [ ] Server Navigation (UX mejorada)
-- [ ] Repositorio oficial en GitHub
-- [ ] Nuevo modo de juego (**Dani Mode**)
-- [ ] Nuevos comandos personalizados
+**`+ Added`**
 
----
-
-## Experience & Improvements
-
-### Changed
-- [ ] Rediseño completo de reglas
-- [ ] Mejora de bienvenidas y despedidas
-- [ ] Nueva política de boosters
-- [ ] Sistema de moderación (trial mods)
-- [ ] Mejora estética global (embeds, colores, UI)
-- [ ] Reestructuración total del servidor
-- [ ] Expansión del sistema de roles
-- [ ] Optimización del sistema musical
-- [ ] Mejora en la interacción general
+| Type | Description |
+|:-----|:------------|
+| `cmd` | `<kbd>/profile</kbd>` — Sistema de perfiles |
+| `cmd` | `<kbd>/team</kbd>` — Sistema de equipos |
+| `sys` | **Achievements & badges** (progression system) |
+| `sys` | Sistema de soporte + `tickets` |
+| `auto` | Sistema anti-inactividad (roles automáticos) |
+| `auto` | Bienvenida automática por `DM` |
+| `event` | Torneos y eventos de comunidad |
+| `channel` | Canal para creadores: `#clips-gameplay` |
+| `resource` | Recursos para jugadores `[skins, macros, etc.]` |
+| `docs` | Página de guía y documentación |
+| `faq` | FAQ del server y del juego |
+| `integration` | Integración con Wikipedia (`wiki-bot`) |
+| `music` | Sistema musical mejorado |
+| `private` | Canales exclusivos para miembros del clan |
+| `ux` | **Server Navigation** (UX mejorada) |
+| `repo` | Repositorio oficial en GitHub |
+| `mode` | Nuevo modo de juego: **`<kbd>Dani Mode</kbd>`** |
+| `cmd` | Nuevos comandos personalizados |
 
 ---
 
-## Stability & Fixes
+### 🎯 Experience & Improvements
 
-### Fixed
-- [ ] Reconfiguración de auto-mod
-- [ ] Mejora de seguridad global
-- [ ] Corrección de estructura legacy
-- [ ] Optimización de experiencia del usuario
+**`~ Changed`**
 
----
-
-## Bot Ecosystem
-
-- [ ] Bots de seguridad, utilidad y entretenimiento
-- [ ] Bot personalizado del servidor
-- [ ] ServerStats (estadísticas en tiempo real)
-- [ ] Wiki-bot (integración informativa)
+- `[rules]` Rediseño completo de reglas
+- `[welcome]` Mejora de bienvenidas y despedidas
+- `[boosters]` Nueva política de boosters
+- `[moderation]` Sistema de moderación (`trial mods`)
+- `[ui]` Mejora estética global (`embeds`, colores, `UI`)
+- `[structure]` Reestructuración total del servidor
+- `[roles]` Expansión del sistema de roles
+- `[music]` Optimización del sistema musical
+- `[interaction]` Mejora en la interacción general
 
 ---
 
-## Server Architecture
+### 🛡️ Stability & Fixes
 
-### Channels
-- [ ] Expansión completa (texto, anuncios, foros, voz y escenarios)
-- [ ] Separación de canales públicos y privados
-- [ ] Navegación optimizada
+**`- Fixed`**
 
----
-
-## Release Summary
-
-| Category        | Count |
-|----------------|------|
-| ✨ Features     | 18   |
-| 🛠️ Changes     | 9    |
-| 🐛 Fixes        | 4    |
-| 🤖 Bots         | 4    |
-| 📂 Channels     | 3    |
+- `[automod]` Reconfiguración de auto-mod
+- `[security]` Mejora de seguridad global
+- `[legacy]` Corrección de estructura legacy
+- `[ux]` Optimización de experiencia del usuario
 
 ---
 
-## Version
-`v2.0.0 — Full Server Rework`
+### 🤖 Bot Ecosystem
+
+**`🤖 Bots`**
+
+| Bot | Purpose |
+|:----|:--------|
+| `security-bot` | Seguridad |
+| `utility-bot` | Utilidad |
+| `entertainment-bot` | Entretenimiento |
+| `custom-bot` | Bot personalizado del servidor |
+| `stats-bot` | `<kbd>ServerStats</kbd>` (estadísticas en tiempo real) |
+| `wiki-bot` | Integración informativa |
 
 ---
 
-## Next Steps (Roadmap)
-- [ ] Bot personalizado
+### 🗂️ Server Architecture
+
+**`📁 Channels`**
+
+- `[text]` + `[announce]` + `[forums]` + `[voice]` + `[stage]` — Expansión completa
+- `[public]` / `[private]` — Separación de canales públicos y privados
+- `[nav]` — Navegación optimizada
 
 ---
 
+### 📊 Release Summary
+
+```yaml
+Features: 18
+Changes:  9
+Fixes:    4
+Bots:     4
+Channels: 3
+
+Category	Count
+✨ Features	18
+🛠️ Changes	9
+🐛 Fixes	4
+🤖 Bots	4
+📂 Channels	3
+
+Version v2.0.0 — Full Server Rework
+
+## 🗺️ Next Steps (Roadmap)
+
+diff
++ [ ] Bot personalizado
 <!-- conventional-changelog -->
-
 [build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
 [coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
