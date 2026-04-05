@@ -90,7 +90,8 @@
 ---
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>More information</summary>
+
 ### Release Summary
 
 ```yaml
