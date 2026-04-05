@@ -118,7 +118,7 @@ Changes:  9
 Fixes:    4
 Bots:     6
 Channels: 40+
-
+```
 </details>
 
 Recuerda que esta documentación está abierta a cambios. Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad
