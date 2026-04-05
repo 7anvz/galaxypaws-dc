@@ -88,8 +88,10 @@
 - `[nav]` — Navegación optimizada
 
 ---
+<details>
 
-### 📊 Release Summary
+<summary>Tips for collapsed sections</summary>
+### Release Summary
 
 ```yaml
 Features: 18
@@ -98,6 +100,8 @@ Fixes:    4
 Bots:     4
 Channels: 3
 ```
+
+</details>
 <!-- conventional-changelog -->
 [build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
