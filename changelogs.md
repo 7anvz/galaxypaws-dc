@@ -103,20 +103,7 @@ Changes:  9
 Fixes:    4
 Bots:     4
 Channels: 3
-
-Category	Count
-✨ Features	18
-🛠️ Changes	9
-🐛 Fixes	4
-🤖 Bots	4
-📂 Channels	3
-
-Version v2.0.0 — Full Server Rework
-
-## 🗺️ Next Steps (Roadmap)
-
-diff
-+ [ ] Bot personalizado
+``'
 <!-- conventional-changelog -->
 [build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
