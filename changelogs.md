@@ -103,7 +103,7 @@ Changes:  9
 Fixes:    4
 Bots:     4
 Channels: 3
-``'
+```
 <!-- conventional-changelog -->
 [build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
