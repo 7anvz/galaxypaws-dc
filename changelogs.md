@@ -5,7 +5,7 @@
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-<p> Galaxy Paws es una comunidad de jugares de [sigmally](https:\\www.google.com) </p>
+Galaxy Paws es una comunidad de jugares de [sigmally](https:\\www.google.com)
 <p align="center">
   <img src="assets/architecture_diagram.png" alt="PersonaPlex Model Architecture">
   <br>
