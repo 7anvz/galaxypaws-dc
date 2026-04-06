@@ -60,8 +60,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ---
 
-### 🎯 Experience & Improvements
-
+### Experience & Improvements
 **`~ Cambios aplicados`**
 
 - `[rules]` Cambios en las reglas de la comunidad
