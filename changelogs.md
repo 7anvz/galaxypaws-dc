@@ -26,7 +26,7 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
 - **Guía para desarrolladores:** Si deseas obtener mayor información de como crear un Changelog eficaz para `Cmnty-Sig` puedes ver la documentación en nuestra [página web](https://www.google.com)
 - **Guia para miembros** : Te recomendamos ver los cambios de cada actualización más claramente en nuestro [servidor de Discord](https://www.googlw.com), pero si deseas también puedes verlo en esta página. Para descargar este documento puedes hacer [click aquí](https://www.google.com)
 
-> [!NOTE] 
+> [!IMPORTANT] 
 > *This update redefines how users interact, compete, and engage within the server.*
 **Major release** — Complete overhaul of systems, structure, and community experience.  
 
