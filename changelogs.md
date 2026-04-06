@@ -9,7 +9,7 @@
 
 Galaxy Paws es una comunidad de jugares de [sigmally](https:\\www.google.com)
 <p align="center">
-  <img src="galaxyserverimg.png" alt="Server antes de actualización 2.0">
+  <img src="serverantes.png" alt="Server antes de actualización 2.0">
   <br>
   <em>imggg</em>
 </p>
