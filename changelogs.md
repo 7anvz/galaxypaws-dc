@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../banner.png" alt="Hermes Agent" width="100%">
+  <img src="banner.png" alt="Hermes Agent" width="100%">
 </p>
 
 [![Discord](https://img.shields.io/discord/1408453330006577182?logo=discord&label=Discord&color=5865F2)](https://discord.gg/SQasBExHsK)
