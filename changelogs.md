@@ -9,7 +9,7 @@
 
 ---
 
-### ✨ Novedades
+### ❇️ Novedades
 La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
 > [!NOTE] 
 > *This update redefines how users interact, compete, and engage within the server.*
