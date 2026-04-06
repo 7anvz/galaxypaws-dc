@@ -5,7 +5,7 @@
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-<p> All notable changes to this project are documented here following. Conventional Commits </p>
+<p> Galaxy Paws es una comunidad de jugares de [sigmally](google.com) </p>
 <p align="center">
   <img src="assets/architecture_diagram.png" alt="PersonaPlex Model Architecture">
   <br>
