@@ -32,7 +32,7 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
 
 ---
 
-### ☆ Novedades
+## Novedades del server!
 La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
 
 
