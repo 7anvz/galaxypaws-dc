@@ -11,9 +11,8 @@
 
 ---
 
-### 🧩 Core Features
-
-**`+ Novedades en el server 🔥`**
+### Novedades en el server 🔥
+La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
 
 | Type | Description |
 |:-----|:------------|
