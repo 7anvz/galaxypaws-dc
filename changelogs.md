@@ -15,7 +15,7 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
 <p align="center">
   <img src="imgcenter.png" alt="Server actualización 2.0">
   <br>
-  <em>Server de Discord de Galaxy Paws `06/04/2026`</em>
+  <em>Server de Discord de Galaxy Paws </em>`06/04/2026`
 </p>
 
 ### ⚠️ Lo más importante de esta actualización
