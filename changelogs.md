@@ -17,8 +17,8 @@
 
 | Type | Description |
 |:-----|:------------|
-| `cmd` | `<kbd>/profile</kbd>` — Sistema de perfiles (monedas, nombre, estadísticas) |
-| `cmd` | `<kbd>/team</kbd>` — Búsqueda de team para partidas diarias y torneos (ping opcional al rol `@team`) |
+| `cmd` | <kbd>/profile</kbd> — Sistema de perfiles (monedas, nombre, estadísticas) |
+| `cmd` | <kbd>/team</kbd> — Búsqueda de team para partidas diarias y torneos (ping opcional al rol `@team`) |
 | `sys` | **Achievements & badges** — Sistema de progresión (`new ppl`, `epic`, `legendary`, `mitic`, `master`) |
 | `sys` | Sistema de soporte con menú de navegación + reglas en `#support-guidelines` |
 | `auto` | Sistema anti-inactividad — rol especial + ping con mensaje personalizado a las 2 semanas |
