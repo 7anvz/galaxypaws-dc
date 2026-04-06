@@ -1,10 +1,10 @@
-# Changelog — Galaxy Paws 🐾
+### Changelog — Galaxy Paws 🐾
 
 [![Discord](https://img.shields.io/discord/1408453330006577182?logo=discord&label=Discord&color=5865F2)](https://discord.gg/SQasBExHsK) [![Build Status][build]][build-url] [![Coverage Status][coverage]][coverage-url] [![Version][version]][version-url]
 
 <p> All notable changes to this project are documented here following. Conventional Commits </p>
 
-### Full server Rework — Galaxy Paws
+### ⚠️ Lo más importante de esta actualización
 **Major release** — Complete overhaul of systems, structure, and community experience.  
 
 ---
