@@ -3,6 +3,11 @@
 [![Discord](https://img.shields.io/discord/1408453330006577182?logo=discord&label=Discord&color=5865F2)](https://discord.gg/SQasBExHsK) [![Build Status][build]][build-url] [![Coverage Status][coverage]][coverage-url] [![Version][version]][version-url]
 
 <p> All notable changes to this project are documented here following. Conventional Commits </p>
+<p align="center">
+  <img src="assets/architecture_diagram.png" alt="PersonaPlex Model Architecture">
+  <br>
+  <em>PersonaPlex Architecture</em>
+</p>
 
 ### ⚠️ Lo más importante de esta actualización
 **Major release** — Complete overhaul of systems, structure, and community experience.  
