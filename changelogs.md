@@ -18,7 +18,7 @@ En estos días estábamos considerando la idea de activar nuevamente la comunida
 
 Para dar cuenta de los cambios en el server, se adjunta a continuación documentación de cómo va el server hasta ahora, con funciones y aspectos estáticos, poca organización y demás. Posteriormente se presentarán las novedades, correcciones y cambios que tendrán esta nueva actualización.
 <p align="center">
-  <img src="imgcenter.png" alt="Server actualización 2.0">
+  <img src="server.png" alt="Server actualización 2.0">
   <br>
   <em><b>Server de Discord de Galaxy Paws 06/04/2026</b></em>
 </p>
