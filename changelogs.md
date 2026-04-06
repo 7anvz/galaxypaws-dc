@@ -11,7 +11,7 @@ Galaxy Paws es una comunidad de jugares de [sigmally](https:\\www.google.com)
 <p align="center">
   <img src="assets/architecture_diagram.png" alt="PersonaPlex Model Architecture">
   <br>
-  <em>PersonaPlex Architecture</em>
+  <em>imggg</em>
 </p>
 
 ### ⚠️ Lo más importante de esta actualización
