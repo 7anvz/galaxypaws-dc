@@ -6,13 +6,14 @@
 
 ### Full server Rework — Galaxy Paws
 **Major release** — Complete overhaul of systems, structure, and community experience.  
-> [!NOTE] 
-> *This update redefines how users interact, compete, and engage within the server.*
 
 ---
 
-### Novedades en el server 🔥
+### ✨ Novedades
 La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
+> [!NOTE] 
+> *This update redefines how users interact, compete, and engage within the server.*
+
 
 | Type | Description |
 |:-----|:------------|
