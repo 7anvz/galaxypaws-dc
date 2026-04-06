@@ -18,7 +18,8 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
   <em><b>Server de Discord de Galaxy Paws 06/04/2026</b></em>
 </p>
 
-- **Guía para desarrolladores:** Si deseas obtener mayor información de como crear un server funcional y llamativo para `Cmnty-Sig` puedes ver la documentación en nuestra [página web](https://www.google.com)
+- **Guía para desarrolladores:** Si deseas obtener mayor información de como crear un Changelog eficaz para `Cmnty-Sig` puedes ver la documentación en nuestra [página web](https://www.google.com)
+- **Guia para miembros** : Te recomendamos ver los cambios de nuestro servidor puedes verlo más claramente en nuestro [servidor de Discord](https://www.googlw.com), pero si deseas también puedes verlo en esta página. Para descargar este documento puedes hacer [click aquí](https://www.google.com)
 
 ### ⚠️ Lo más importante de esta actualización
 **Major release** — Complete overhaul of systems, structure, and community experience.  
