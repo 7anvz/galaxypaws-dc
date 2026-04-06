@@ -39,7 +39,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 | Type change | Description |
 |:-----|:------------|
 | `comando` | <kbd>/profile</kbd> Sistema de perfiles (monedas, nombre, estadísticas) |
-| `comando` | <kbd>/team</kbd> Búsqueda de team para partidas diarias y torneos (ping opcional al rol `@team`) |
+| `comando` | <kbd>/team</kbd> Búsqueda de team para partidas diarias y torneos (ping al rol `@team`) |
 | `sistema` | **Achievements & badges**, Sistema de progresión (`new ppl`, `epic`, `legendary`, `mitic`, `master`) |
 | `sistema` | Sistema de soporte con menú de navegación + reglas en `#support-guidelines` |
 | `auto` | Sistema anti-inactividad, rol especial + ping con mensaje personalizado a las 2 semanas |
