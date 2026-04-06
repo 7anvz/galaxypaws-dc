@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="banner.jpeg" alt="banner galaxy" width="100%">
+</p>
+
+---
+<p align="center">
   <img src="changeb.png" alt="Hermes Agent" width="100%">
 </p>
 
