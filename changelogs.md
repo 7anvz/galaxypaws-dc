@@ -8,6 +8,10 @@
 [![Version][version]][version-url]
 
 Galaxy Paws es una comunidad de jugares de [sigmally](https:\\www.google.com), también es un clan, pero principalmente la consideramos un grupo de amigos para pasarla bien y divertirse. usando tanto canales de texto como de voz. Este cuenta con xxxx miembros. `(6/03/2026)`
+
+En estos días estábamos considerando la idea de activar nuevamente la comunidad, y así será, para ello traemos la nueva actualización del server que nos diferenciará del resto. Será una comunidad única e increíble.
+
+Para dar cuenta de los cambios en el server, se adjunta a continuación documentación de cómo va el server hasta ahora, con funciones y aspectos estáticos, poca organización y demás. Posteriormente se presentarán las novedades, correcciones y cambios que tendrán esta nueva actualización.
 <p align="center">
   <img src="imgcenter.png" alt="Server actualización 2.0">
   <br>
