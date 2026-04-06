@@ -36,7 +36,7 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
 La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
 
 
-| Type | Description |
+| Type change | Description |
 |:-----|:------------|
 | `cmd` | <kbd>/profile</kbd> — Sistema de perfiles (monedas, nombre, estadísticas) |
 | `cmd` | <kbd>/team</kbd> — Búsqueda de team para partidas diarias y torneos (ping opcional al rol `@team`) |
