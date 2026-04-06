@@ -13,7 +13,7 @@
 
 ### 🧩 Core Features
 
-**`+ Added`**
+**`+ Novedades en el server 🔥`**
 
 | Type | Description |
 |:-----|:------------|
@@ -41,7 +41,7 @@
 
 ### 🎯 Experience & Improvements
 
-**`~ Changed`**
+**`~ Cambios aplicados`**
 
 - `[rules]` Cambios en las reglas de la comunidad
 - `[welcome]` Cambios en el canal de bienvenidas y despedidas (apariencia de mensajes, etc.)
@@ -57,7 +57,7 @@
 
 ### 🛡️ Stability & Fixes
 
-**`- Fixed`**
+**`- Correcciones y mejorías `**
 
 - `[automod]` Reconfigurar auto-mod, mejorar la seguridad
 - `[security]` Mejora de seguridad global
