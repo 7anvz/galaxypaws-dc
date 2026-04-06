@@ -40,14 +40,14 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 |:-----|:------------|
 | `comando` | <kbd>/profile</kbd> Sistema de perfiles (monedas, nombre, estadísticas) |
 | `comando` | <kbd>/team</kbd> Búsqueda de team para partidas diarias y torneos (ping al rol `@team`) |
-| `sistema` | **Achievements & badges**, Sistema de progresión (`new ppl`, `epic`, `legendary`, `mitic`, `master`) |
+| `sistema` | **Achievements & badges** (`new ppl`, `epic`, `legendary`, `mitic`, `master`) |
 | `sistema` | Sistema de soporte con menú de navegación + reglas en `#support-guidelines` |
-| `auto` | Sistema anti-inactividad, rol especial + ping con mensaje personalizado a las 2 semanas |
+| `auto` | Sistema anti-inactividad, rol especial + ping a las 2 semanas |
 | `auto` | Bienvenida automática por `DM` con enlaces e invitación a compartir el server |
 | `evento` | **Torneos (con reglas) y eventos únicos** para toda la comunidad de Sigmally |
 | `evento` | Eventos tipo "Mejor jugada del año" con recompensas por contenido viral |
 | `canal` | Espacio para creadores: `#clips-gameplay` + `#rate-clips` |
-| `recurso` | Sección de recursos útiles para el jugador (`skins`, `macros`, etc.) también en la página web |
+| `recurso` | Sección de recursos (`skins`, `macros`, etc.) también en la página web |
 | `especial` | Página de guía y documentación útil para jugadores de Sigmally |
 | `mensaje` | FAQ del server y del juego (también en la página web) |
 | `new bot` | Integración con Wikipedia (`wiki-bot`) |
@@ -55,7 +55,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 | `privado` | Canales y utilidades exclusivas para miembros del clan |
 | `embed` | **Server Discord Navigation** (lista de canales e info adicional) |
 | `especial` | Contenidos del server en repositorio de GitHub (mejor administración) |
-| `especial` | Nuevo mod de juego creado por **Dani!** (`<kbd>Dani Mod</kbd>` especial del server) |
+| `especial` | Nuevo mod de juego creado por **Dani!** (`<kbd>Dani Mod</kbd>` ) |
 | `comando` | Más comandos útiles y de desarrollo |
 
 ---
