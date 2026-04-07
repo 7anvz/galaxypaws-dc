@@ -77,9 +77,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ---
 
-### 🛡️ Stability & Fixes
-
-**`- Correcciones y mejorías `**
+## Estabilidad y correcciones
 
 - `[automod]` Reconfigurar auto-mod, mejorar la seguridad
 - `[security]` Mejora de seguridad global
