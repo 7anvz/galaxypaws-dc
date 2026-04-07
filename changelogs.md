@@ -58,6 +58,9 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 | `especial` | Nuevo mod de juego creado por **Dani!** (`<kbd>Dani Mod</kbd>` ) |
 | `comando` | Más comandos útiles y de desarrollo |
 
+> [!NOTE] 
+> *Habran más novedades próximamente! Se agradece el aporte que hacen los miembros con cada una de sus ideas y/o sugerencias.
+
 ---
 
 ### Experience & Improvements
