@@ -101,25 +101,25 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ## Estructura del server
 
-### 🏁 Nuevos canales
+### 👾Nuevos canales
 
 - `[text]` + `[announce]` + `[forums]` + `[voice]` + `[stage]` — Expansión completa
 - `[public]` / `[private]` — Separación de canales públicos y privados
 - `[nav]` — Navegación optimizada
 
-### 💬 Canales de texto
+### ✦ Canales de texto
 `#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
 
-### 📢 Canales de anuncios
+### ✦ Canales de anuncios
 `#annc-general` \ `#annc-tournaments` \ `#activity-check` \ `#feedback-ideas`
 
-### 📬 Canales tipo foro
+### ✦ Canales tipo foro
 `#clubs-forum` \ `#discussions` \ `#articles` \ `#events` \ 🔒 `#suggestions`
 
-### 🎤 Canales de voz
+### ✦ Canales de voz
 `#hangout01` \ `#hangout02` \ `#hangout03` \ `#voice-chat` \ `#music` \ 🔒 `#room-staff`
 
-### 📸 Canales tipo escenario
+### ✦ Canales tipo escenario
 `#tournaments` \ `#galaxy`
 
 ---
