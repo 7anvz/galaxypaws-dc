@@ -107,8 +107,11 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 - `[public]` / `[private]` — Separación de canales públicos y privados
 - `[nav]` — Navegación optimizada
 
-### ⮑ Canales de texto
+<details>
+
+<summary>Canales de texto</summary>
 `#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
+</details>
 
 ### ⮑ Canales de anuncios
 `#annc-general` \ `#annc-tournaments` \ `#activity-check` \ `#feedback-ideas`
