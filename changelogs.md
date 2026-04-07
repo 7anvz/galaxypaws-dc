@@ -137,7 +137,8 @@ Channels: 40+
 ```
 </details>
 
-Recuerda que esta documentación está abierta a cambios. Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad
+> [!WARNING] 
+> **Recuerda que esta documentación está abierta a cambios. Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad**
 
 <!-- conventional-changelog -->
 [build]: https://img.shields.io/badge/build-passing-brightgreen
