@@ -34,7 +34,7 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
 
 ## Novedades del server!
 La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
-
+> Está nueva actualización trae una nueva característica que involucra la vinculación e integración con [BotGhost](https://www.google.com)
 
 | Type change | Description |
 |:-----|:------------|
