@@ -63,8 +63,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ---
 
-### Experience & Improvements
-**`~ Cambios aplicados`**
+## Experiencia y mejoras
 
 - `[rules]` Cambios en las reglas de la comunidad
 - `[welcome]` Cambios en el canal de bienvenidas y despedidas (apariencia de mensajes, etc.)
