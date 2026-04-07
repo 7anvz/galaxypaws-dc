@@ -59,7 +59,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 | `comando` | Más comandos útiles y de desarrollo |
 
 > [!NOTE] 
-> *Habran más novedades próximamente! Se agradece el aporte que hacen los miembros con cada una de sus ideas y/o sugerencias.
+> **Habran más novedades próximamente!** Estate atent@! Agradecemos el aporte que hacen los miembros con cada una de sus ideas y/o sugerencias. Si quieres dejarnos algún comentario puedes hacerlo por nuestro canal de [#suggestions](https://www.google.com).
 
 ---
 
