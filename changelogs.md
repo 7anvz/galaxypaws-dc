@@ -126,9 +126,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 <details>
 
-<summary>More information</summary>
-
-### Release Summary
+<summary>Resumen de actualización 2.0</summary>
 
 ```yaml
 Features: 18
