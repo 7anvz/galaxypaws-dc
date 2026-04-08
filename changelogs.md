@@ -101,7 +101,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ## Estructura del server
 
-### 🟣 Nuevos canales
+### ‼️ Nuevos canales
 
 - `[text]` + `[announce]` + `[forums]` + `[voice]` + `[stage]` — Expansión completa
 - `[public]` / `[private]` — Separación de canales públicos y privados
