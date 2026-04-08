@@ -126,7 +126,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-### 📊 Hoja de Ruta 2.0 — Resumen Ejecutivo
+### 📊 Hoja de Ruta 2.0
 
 ```yaml
 Nuevas Implementaciones: 19
