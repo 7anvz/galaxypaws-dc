@@ -109,11 +109,11 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-## Mapa del Sitio
+## 🌏 Mapa del Sitio
 
-### ‼️ Resumen de Infraestructura
+### Resumen de Infraestructura
 
-- <kbd>[Texto](https://www.google.com)</kbd> · <kbd>[Anuncios](https://www.google.com)</kbd> · <kbd>[Foros](https://www.google.com)</kbd> · <kbd>[Voz](https://www.google.com)</kbd> · <kbd>[Escenario](https://www.google.com)</kbd> — Cobertura total de formatos de interacción.
+- <kbd>[Texto](https://www.google.com)</kbd> · <kbd>[Anuncios](https://www.google.com)</kbd> · <kbd>[Foros](https://www.google.com)</kbd> · <kbd>[Voz](https://www.google.com)</kbd> · <kbd>[Escenario](https://www.google.com)</kbd> ⚑ Cobertura total de formatos de interacción.
 - <kbd>[Público](https://www.google.com)</kbd> / <kbd>[Privado](https://www.google.com)</kbd> ⚑ Segmentación estricta de accesos por rol.
 - <kbd>[Índice](https://www.google.com)</kbd> ⚑ Navegación estructurada mediante mensajes anclados.
 
