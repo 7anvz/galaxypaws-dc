@@ -110,7 +110,9 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 <details>
 
 <summary>Canales de texto</summary>
+
 `#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
+
 </details>
 
 ### ⮑ Canales de anuncios
