@@ -160,9 +160,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ---
 
-<details>
-
-<summary>Resumen de actualización 2.0</summary>
+## Resumen de actualización 2.0 ⬎
 
 ```yaml
 Features: 18
@@ -171,7 +169,6 @@ Fixes:    4
 Bots:     6
 Channels: 40+
 ```
-</details>
 
 > [!WARNING] 
 > **Recuerda que esta documentación está abierta a cambios permanentes.** Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad.
