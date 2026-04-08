@@ -160,7 +160,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ---
 
-## Resumen de actualización 2.0 ⬎
+### Resumen de actualización 2.0 ⬎
 
 ```yaml
 Features: 18
