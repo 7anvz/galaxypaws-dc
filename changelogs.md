@@ -154,7 +154,8 @@ Canales Activos: 40+
 [!WARNING]
 Documentación sujeta a iteraciones continuas. Para consultas técnicas o interés en contribuir al repositorio, contacte con el desarrollador principal o el equipo de soporte.
 
-<!-- conventional-changelog -->[build]: https://img.shields.io/badge/build-passing-brightgreen
+<!-- conventional-changelog -->
+[build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
 [coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
 [coverage-url]: #
