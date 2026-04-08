@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">»»» Antecedentes y Visión «««</h2>
+<h2 align="center">»»» Antecedentes y visión «««</h2>
 
 Tras un período de menor actividad, anunciamos oficialmente la reactivación total de la comunidad. Para ello presentamos la **Actualización 2.0**, una versión completamente renovada de Galaxy Paws diseñada para destacar en el ecosistema de Discord y ofrecer una experiencia de usuario sin precedentes.
 
@@ -30,7 +30,7 @@ A continuación se detalla la transición desde la estructura previa (estática 
 
 ---
 
-<h2 align="center">»»» Implementaciones Destacadas «««</h2>
+<h2 align="center">»»» Implementaciones destacadas «««</h2>
 
 Esta actualización introduce sistemas automatizados, comandos de nueva generación y espacios dedicados que elevan el estándar de calidad de la comunidad.
 
@@ -63,7 +63,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-<h2 align="center">»»» Optimización de Experiencia (UX/UI) «««</h2>
+<h2 align="center">»»» Optimización de experiencia (UX/UI) «««</h2>
 
 | Ámbito | Intervención | Descripción del Cambio |
 |:-------|:-------------|:-----------------------|
@@ -79,7 +79,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-<h2 align="center">»»» Estabilidad y Parches de Seguridad «««</h2>
+<h2 align="center">»»» Estabilidad y parches de seguridad «««</h2>
 
 | Módulo | Acción Correctiva |
 |:-------|:------------------|
@@ -103,7 +103,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-<h2 align="center">»»» 🌏 Mapa del Sitio «««</h2>
+<h2 align="center">»»» Mapa del Sitio «««</h2>
 
 ### Resumen de Infraestructura
 
