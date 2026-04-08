@@ -160,6 +160,10 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 `#tournaments` \ `#galaxy`
 
+> [!IMPORTANT] 
+> *This update redefines how users interact, compete, and engage within the server.*
+**Major release** — Complete overhaul of systems, structure, and community experience.
+
 </details>
 
 
