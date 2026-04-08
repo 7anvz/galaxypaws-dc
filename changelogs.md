@@ -109,49 +109,33 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
   
 ### Canales de texto
 
-> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
+> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
 
-<details> 
-  
-<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴀɴᴜɴᴄɪᴏꜱ</summary>
+### Canales de anuncios
 
-> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
+> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#annc-general` \ `#annc-tournaments` \ `#activity-check` \ `#feedback-ideas`
 
-</details>
+### Canales tipo foro 
 
-<details> 
-  
-<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ꜰᴏʀᴏ</summary>
-
-> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
+> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#clubs-forum` \ `#discussions` \ `#articles` \ `#events` \ 🔒 `#suggestions`
 
-</details>
+### Canales de voz
 
-<details> 
-  
-<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ</summary>
-
-> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
+> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#hangout01` \ `#hangout02` \ `#hangout03` \ `#voice-chat` \ `#music` \ 🔒 `#room-staff`
 
-</details>
+### Canales tipo escenario
 
-<details> 
-  
-<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ᴇꜱᴄᴇɴᴀʀɪᴏ</summary>
-
-> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
+> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#tournaments` \ `#galaxy`
-
-</details>
 
 
 ---
