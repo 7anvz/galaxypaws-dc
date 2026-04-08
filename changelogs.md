@@ -108,7 +108,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 <details> 
   
-<summary> ☆ Canales de texto</summary>
+<summary> #canales-de-texto</summary>
 
 > ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
