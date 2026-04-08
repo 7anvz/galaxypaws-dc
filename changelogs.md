@@ -1,4 +1,4 @@
-<p align="center">
+g<p align="center">
   <img src="banner.jpeg" alt="banner galaxy" width="100%">
 </p>
 
@@ -37,7 +37,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 | Type change | Description |
 |:-----|:------------|
-| `comando` | <kbd>/profile</kbd> Sistema de perfiles (monedas, nombre, estadísticas) |
+| `comando` | <kbd>/profile</kbd> Sistema de perfiles (nombre, estadísticas) |
 | `comando` | <kbd>/team</kbd> Búsqueda de team para partidas diarias y torneos (ping al rol `@team`) |
 | `sistema` | **Achievements & badges** (`new ppl`, `epic`, `legendary`, `mitic`, `master`) |
 | `sistema` | Sistema de soporte con menú de navegación + reglas en `#support-guidelines` |
