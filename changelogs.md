@@ -102,7 +102,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ### ‼️ Nuevos canales
 
-- <kbd>[[text](https://www.google.com)]</kbd> + `[announce]` + `[forums]` + `[voice]` + `[stage]` ⚑ Expansión completa
+- <kbd>[[text](https://www.google.com)]</kbd> + `[<kbd>[announce](https://www.google.com)</kbd>]` + `[<kbd>[forums](https://www.google.com)</kbd>]` + `[voice]` + `[stage]` ⚑ Expansión completa
 - `[public]` / `[private]` ⚑ Separación de canales públicos y privados
 - `[nav]` ⚑ Navegación optimizada
 
