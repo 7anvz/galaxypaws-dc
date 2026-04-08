@@ -12,153 +12,154 @@
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-<p>Galaxy Paws es una comunidad de jugadores de <a href="https://www.google.com";>sigmally</a>, también es un clan, pero principalmente la consideramos un grupo de amigos para pasarla bien y divertirse. usando tanto canales de texto como de voz. Este cuenta con xxxx miembros hasta la fecha : <kbd>(6/04/2026)</kbd></p>
+<p>Galaxy Paws es una comunidad y clan de jugadores de <a href="https://www.google.com";>Sigmally</a>, construida sobre la base de la amistad y el entretenimiento colectivo. Actualmente contamos con xxxx miembros <kbd>(6/04/2026)</kbd> activos tanto en canales de texto como de voz.</p>
 
 ---
 
-En estos días estábamos considerando la idea de activar nuevamente la comunidad, y así será, para ello traemos la nueva actualización del server que nos diferenciará del resto. Será una comunidad única e increíble.
+### 📌 Antecedentes y Visión
 
-Para dar cuenta de los cambios en el server, se adjunta a continuación documentación de cómo va el server hasta ahora, con funciones y aspectos estáticos, poca organización y demás. Posteriormente se presentarán las novedades, correcciones y cambios que tendrán esta nueva actualización.
+Tras un período de menor actividad, anunciamos oficialmente la reactivación total de la comunidad. Para ello presentamos la **Actualización 2.0**, una versión completamente renovada de Galaxy Paws diseñada para destacar en el ecosistema de Discord y ofrecer una experiencia de usuario sin precedentes.
+
+A continuación se detalla la transición desde la estructura previa (estática y desorganizada) hacia el nuevo ecosistema de funcionalidades, correcciones y optimizaciones.
+
 <p align="center">
   <img src="server.png" alt="Server actualización 2.0">
   <br>
-  <em><b>Server de Discord de Galaxy Paws 06/04/2026</b></em>
+  <em><b>Arquitectura del Servidor — 06/04/2026</b></em>
 </p>
 
-- **Guía para desarrolladores:** Si deseas obtener mayor información de como crear un Changelog eficaz para `Cmnty-Sig` puedes ver la documentación en nuestra [página web](https://www.google.com)
-- **Guia para miembros** : Te recomendamos ver los cambios de cada actualización más claramente en nuestro [servidor de Discord](https://www.googlw.com), pero si deseas también puedes verlo en esta página. Para descargar este documento puedes hacer [click aquí](https://www.google.com)
+- **Documentación Técnica:** Para desarrolladores interesados en la estructura de `Cmnty-Sig`, consulten nuestra [documentación oficial](https://www.google.com).
+- **Guía Rápida:** Los cambios se sincronizan en tiempo real en nuestro [portal de Discord](https://www.googlw.com). Descarga offline disponible [aquí](https://www.google.com).
 
 > [!IMPORTANT] 
-> Para saber cómo crear los diseños de banners para los embeds de una comunidad puedes ver la documentación [aquí](https://www.google.com) o directamente ir a nuestra [carpeta especial](https://www.google.com) en las que hay plantillas y ejemplos de marca totalmente gratis
+> Los recursos de diseño y plantillas de marca están disponibles en nuestra [carpeta de activos](https://www.google.com). Consulta la [guía de estilo](https://www.google.com) para mantener la coherencia visual.
 
 ---
 
-## Novedades del server!
-La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque que mejora la experiencia de los miembros y permite una mejor administración de la comunidad.
-> Asimismo también trae una nueva característica que involucra la vinculación e integración con [BotGhost](https://www.google.com). Un Dashboard moderno que permite la creación y administración de bots personalizados. 
+## 🚀 Implementaciones Destacadas
 
-| Type change | Description |
-|:-----|:------------|
-| `comando` | <kbd>/profile</kbd> Sistema de perfiles (nombre, estadísticas) |
-| `comando` | <kbd>/team</kbd> Búsqueda de team para partidas diarias y torneos (ping al rol `@team`) |
-| `sistema` | **Achievements & badges** (`new ppl`, `epic`, `legendary`, `mitic`, `master`) |
-| `sistema` | Sistema de soporte con menú de navegación + reglas en `#support-guidelines` |
-| `auto` | Sistema anti-inactividad, rol especial + ping a las 2 semanas |
-| `auto` | Bienvenida automática por `DM` con enlaces e invitación a compartir el server |
-| `evento` | **Torneos (con reglas) y eventos únicos** para toda la comunidad de Sigmally |
-| `evento` | Eventos tipo "Mejor jugada del año" con recompensas por contenido viral |
-| `canal` | Espacio para creadores: `#clips-gameplay` + `#rate-clips` |
-| `recurso` | Sección de recursos (`skins`, `macros`, etc.) también en la página web |
-| `especial` | Página de guía y documentación útil para jugadores de Sigmally |
-| `mensaje` | FAQ del server y del juego (también en la página web) |
-| `new bot` | Integración con Wikipedia (`wiki-bot`) |
-| `sistema` | Sistema musical mejorado (embeds con info adicional, recomendaciones, etc.) |
-| `privado` | Canales y utilidades exclusivas para miembros del clan |
-| `embed` | **Server Discord Navigation** (lista de canales e info adicional) |
-| `especial` | Contenidos del server en repositorio de GitHub (mejor administración) |
-| `especial` | Nuevo mod de juego creado por **Dani!** (`<kbd>Dani Mod</kbd>` ) |
-| `comando` | Más comandos útiles y de desarrollo |
+Esta actualización introduce sistemas automatizados, comandos de nueva generación y espacios dedicados que elevan el estándar de calidad de la comunidad.
+
+> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados.
+
+| Tipo | Componente | Especificaciones Técnicas y Funcionales |
+|:-----|:-----------|:-----------------------------------------|
+| `cmd` | <kbd>/profile</kbd> | Motor de perfiles dinámicos. Visualización de estadísticas de juego, rango y tiempo de actividad en el servidor. |
+| `cmd` | <kbd>/team</kbd> | Sistema de matchmaking interno. Notificación push al rol `@team` para búsqueda de escuadrón en partidas y torneos. |
+| `sys` | **Galaxy Achievements** | Sistema de insignias y logros escalonados: `Rookie`, `Epic`, `Legend`, `Mythic`, `Ascendant`. Desbloqueables por participación, victorias y contribuciones. |
+| `sys` | **Ticket Hub** | Menú de navegación interactivo en `#support-guidelines`. Clasificación automática de incidencias y visualización de políticas de soporte. |
+| `auto` | **Inactivity Sweeper** | Escaneo automático a los 14 días. Asignación de rol `Inactive` y envío de notificación de retorno para depuración de miembros. |
+| `auto` | **DM Onboarding** | Flujo de bienvenida automatizado vía mensaje directo. Incluye onboarding visual, enlaces clave y CTA para invitaciones. |
+| `event` | **Competitive Circuit** | Infraestructura para torneos oficiales con reglamento definido y eventos de temporada exclusivos de Sigmally. |
+| `event` | **Clip of the Year** | Certamen anual de contenido viral. Premios y reconocimiento para las jugadas más destacadas de la comunidad. |
+| `channel` | **Creator Space** | Hub de contenido: `#clips-gameplay` para publicación y `#rate-clips` para curaduría comunitaria y feedback. |
+| `lib` | **Resource Library** | Repositorio de assets de juego (skins, configs, macros). Acceso multicanal sincronizado con la web. |
+| `docs` | **Player Knowledge Base** | Wiki externa con guías y documentación avanzada para la comunidad de Sigmally. |
+| `info` | **Dynamic FAQ** | Canal de preguntas frecuentes con actualización bidireccional entre el servidor y la página web. |
+| `bot` | **Wiki-Integration** | Módulo de consulta a Wikipedia en tiempo real mediante comandos de barra. |
+| `sys` | **Enhanced Audio Core** | Reproductor musical con embeds enriquecidos (metadata completa del track, carátula, y algoritmo de recomendación). |
+| `zone` | **Clan Vault** | Área restringida con utilidades exclusivas para miembros verificados del clan Galaxy Paws. |
+| `nav` | **Server Index** | Mensaje maestro de navegación con mapeo completo de categorías y descripción de canales. |
+| `repo` | **Public Repository** | Gestión transparente de reglas, recursos y changelogs a través de GitHub para control de versiones. |
+| `mod` | **Dani's Framework** | Modificación de juego propietaria desarrollada por **Dani!**, exclusiva para la comunidad. |
+| `cmd` | **DevTools** | Conjunto de comandos de utilidad interna para moderación y administración técnica. |
 
 > [!NOTE] 
-> **Habran más novedades próximamente!** Estate atent@! Agradecemos el aporte que hacen los miembros con cada una de sus ideas y/o sugerencias. Si quieres apoyarnos en esto puedes hacerlo por nuestro canal de [#suggestions](https://www.google.com).
+> **Roadmap activo.** Próximamente se desplegarán nuevas funcionalidades. Valoramos profundamente las contribuciones de la comunidad en [#suggestions](https://www.google.com).
 
 ---
 
-## Experiencia y mejoras
+## 🔧 Optimización de Experiencia (UX/UI)
 
-- `[rules]` Cambios en las reglas de la comunidad
-- `[welcome]` Cambios en el canal de bienvenidas y despedidas (apariencia de mensajes, etc.)
-- `[boosters]` Nueva política en los boosts del servidor (beneficios de boosters, etc.)
-- `[moderation]` Integrar sistema de mods de prueba (`trial mods`)
-- `[ui]` Mejora en la apariencia (paleta de colores) de embeds y mensajes
-- `[structure]` Reestructuración total del servidor
-- `[roles]` Más roles públicos, únicos y según nivel de actividad o apoyo al server
-- `[music]` Mejora en la experiencia musical (embeds con info adicional, recomendaciones, etc.)
-- `[interaction]` Mejora en la interacción general
-
----
-
-## Estabilidad y correcciones
-
-- `[automod]` Reconfigurar auto-mod, mejorar la seguridad
-- `[security]` Mejora de seguridad global
-- `[legacy]` Corrección de estructura legacy
-- `[ux]` Optimización de experiencia del usuario
+| Ámbito | Intervención | Descripción del Cambio |
+|:-------|:-------------|:-----------------------|
+| `[compliance]` | Revisión de Normativa | Directrices actualizadas para alinearse con la nueva arquitectura y flujos del servidor. |
+| `[onboarding]` | Estética de Acceso | Rediseño completo de los mensajes de entrada (`join`) y salida (`leave`) con identidad visual corporativa. |
+| `[monetization]` | **Boosters Perks 2.0** | **Beneficios estructurados:** (1) Rol distintivo `<@&Booster>`, (2) Sala privada `#boosters-lounge`, (3) Slots de emojis externos, (4) Prioridad en fila de tickets, (5) Insignia de perfil conmemorativa. |
+| `[staffing]` | Trial Mod Program | Implementación de período de prueba (`Trial Mod`) con permisos limitados para evaluación de desempeño previa a promoción. |
+| `[design]` | Paleta Cromática | Homogeneización del esquema de colores en todos los embeds y mensajes del ecosistema. |
+| `[infrastructure]` | **Arquitectura de Canales** | Reorganización jerárquica completa del servidor para optimizar la descubribilidad de contenido. |
+| `[hierarchy]` | Taxonomía de Roles | Ampliación del catálogo de roles públicos basados en hitos de actividad, contribución y tiempo de permanencia. |
+| `[media]` | Interfaz de Audio | Embeds musicales con metadatos extendidos y sistema de sugerencias automatizadas. |
+| `[interaction]` | Fluidez Operativa | Reducción de latencia en comandos y mejora en la respuesta de los bots integrados. |
 
 ---
 
-## Ecosistema de bots
+## 🛡️ Estabilidad y Parches de Seguridad
 
-| Tipo de bot | Purpose |
-|:----|:--------|
-| `security-bot` | Seguridad |
-| `utility-bot` | Utilidad |
-| `entertainment-bot` | Entretenimiento |
-| `custom-bot` | Bot personalizado del servidor |
-| `stats-bot` | <kbd>ServerStats</kbd> (estadísticas en tiempo real) |
-| `wiki-bot` | Integración informativa (Wikipedia) |
+| Módulo | Acción Correctiva |
+|:-------|:------------------|
+| `[automod]` | Recalibración de filtros de lenguaje y prevención de spam para minimizar falsos positivos. |
+| `[shield]` | Fortalecimiento del protocolo anti-raid y verificación de cuentas en el proceso de entrada. |
+| `[legacy]` | Depuración de código heredado y eliminación de categorías y canales obsoletos. |
+| `[performance]` | Optimización de la interfaz de usuario y reducción de carga en el cliente de Discord. |
 
 ---
 
-## Estructura del server
+## 🤖 Infraestructura de Bots
 
-### ‼️ Nuevos canales
-
-- <kbd>[ [text](https://www.google.com) ]</kbd> + <kbd>[ [announce](https://www.google.com) ]</kbd> + <kbd>[ [forums](https://www.google.com) ]</kbd> + <kbd>[ [voice](https://www.google.com) ]</kbd> + <kbd>[ [stage](https://www.google.com) ]</kbd>  🏁 Expansión completa
-- `[public]` / `[private]` ⚑ Separación de canales públicos y privados
-- `[nav]` ⚑ Navegación optimizada
-
-  
-### Canales de texto
-
-> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
-
-`#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
-
-### Canales de anuncios
-
-> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
-
-`#annc-general` \ `#annc-tournaments` \ `#activity-check` \ `#feedback-ideas`
-
-### Canales tipo foro 
-
-> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
-
-`#clubs-forum` \ `#discussions` \ `#articles` \ `#events` \ 🔒 `#suggestions`
-
-### Canales de voz
-
-> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
-
-`#hangout01` \ `#hangout02` \ `#hangout03` \ `#voice-chat` \ `#music` \ 🔒 `#room-staff`
-
-### Canales tipo escenario
-
-> ⚠️ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
-
-`#tournaments` \ `#galaxy`
-
+| Clasificación | Función Principal |
+|:--------------|:------------------|
+| `guardian` | Protección perimetral, mitigación de spam y raids. |
+| `operations` | Herramientas de productividad (encuestas, temporizadores, seguimiento de ELO). |
+| `leisure` | Motor de juegos y entretenimiento para texto/voz. |
+| `bespoke` | Bot propietario de Galaxy Paws con lógica de servidor personalizada. |
+| `analytics` | <kbd>ServerStats</kbd> — Telemetría en tiempo real de métricas del gremio. |
+| `knowledge` | Conector de Wikipedia para consultas enciclopédicas. |
 
 ---
 
-### Resumen de actualización 2.0 ⬎
+## 📂 Mapa del Sitio
+
+### ‼️ Resumen de Infraestructura
+
+- <kbd>[Texto]</kbd> · <kbd>[Anuncios]</kbd> · <kbd>[Foros]</kbd> · <kbd>[Voz]</kbd> · <kbd>[Escenario]</kbd> — Cobertura total de formatos de interacción.
+- `[Público]` / `[Privado]` ⚑ Segmentación estricta de accesos por rol.
+- `[Índice]` ⚑ Navegación estructurada mediante mensajes anclados.
+
+### 📝 Canales de Texto
+
+> La distribución de estos canales responde a criterios de uso y privacidad. Consulte el mapa de [categorías](https://www.google.com) para su ubicación exacta.
+
+`#tickets` \ `#updates` \ `#staff-hub` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#testing-grounds` \ 🔒 `#dev-roadmap` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#clan-chat` \ `#members-lounge` \ 🔒 `#media-vault` \ `#bot-commands` \ `#room67` \ `#tournament-pings` \ `#brackets` \ 🔒 `#event-staff` \ `#support-desk` \ `#off-topic` \ `#bug-tracker`
+
+### 📢 Centros de Anuncios
+
+`#global-announcements` \ `#tournament-news` \ `#activity-check` \ `#community-feedback`
+
+### 💬 Foros de Discusión
+
+`#clubs-forum` \ `#general-discussion` \ `#guides-articles` \ `#event-planning` \ 🔒 `#suggestions-vault`
+
+### 🔊 Canales de Voz
+
+`#hangout-01` \ `#hangout-02` \ `#hangout-03` \ `#general-voice` \ `#music-lounge` \ 🔒 `#staff-briefing`
+
+### 🎤 Escenarios y Conferencias
+
+`#tournament-stage` \ `#galaxy-main-stage`
+
+---
+
+### 📊 Hoja de Ruta 2.0 — Resumen Ejecutivo
 
 ```yaml
-Features: 18
-Changes:  9
-Fixes:    4
-Bots:     6
-Channels: 40+
+Nuevas Implementaciones: 19
+Mejoras de Experiencia: 9
+Correcciones de Estabilidad: 4
+Bots Integrados: 6
+Canales Activos: 40+
 ```
 
-> [!WARNING] 
-> **Recuerda que esta documentación está abierta a cambios permanentes.** Si tienes dudas o estás interesado en este repositorio puedes contactarte con el desarrollador o con el equipo de soporte de nuestra comunidad.
+[!WARNING]
+Documentación sujeta a iteraciones continuas. Para consultas técnicas o interés en contribuir al repositorio, contacte con el desarrollador principal o el equipo de soporte.
 
-<!-- conventional-changelog -->
-[build]: https://img.shields.io/badge/build-passing-brightgreen
+<!-- conventional-changelog -->[build]: https://img.shields.io/badge/build-passing-brightgreen
 [build-url]: #
 [coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
 [coverage-url]: #
 [version]: https://img.shields.io/badge/version-2.0.0-blue
 [version-url]: #
+
+```
+```
