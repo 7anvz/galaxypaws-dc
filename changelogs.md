@@ -27,8 +27,7 @@ Para dar cuenta de los cambios en el server, se adjunta a continuación document
 - **Guia para miembros** : Te recomendamos ver los cambios de cada actualización más claramente en nuestro [servidor de Discord](https://www.googlw.com), pero si deseas también puedes verlo en esta página. Para descargar este documento puedes hacer [click aquí](https://www.google.com)
 
 > [!IMPORTANT] 
-> *This update redefines how users interact, compete, and engage within the server.*
-**Major release** — Complete overhaul of systems, structure, and community experience.  
+> Para saber cómo crear los diseños de banners puedes ver la documentación aquí o directamente ir a nuestra carpeta especial en las que hay plantillas y ejemplos de marca.
 
 ---
 
