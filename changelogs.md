@@ -102,7 +102,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ### ‼️ Nuevos canales
 
-- `[[text](https://www.google.com)]` + `[announce]` + `[forums]` + `[voice]` + `[stage]` ⚑ Expansión completa
+- [[text](https://www.google.com)] + `[announce]` + `[forums]` + `[voice]` + `[stage]` ⚑ Expansión completa
 - `[public]` / `[private]` ⚑ Separación de canales públicos y privados
 - `[nav]` ⚑ Navegación optimizada
 
