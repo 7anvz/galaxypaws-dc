@@ -94,7 +94,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 | `utility-bot` | Utilidad |
 | `entertainment-bot` | Entretenimiento |
 | `custom-bot` | Bot personalizado del servidor |
-| `stats-bot` | `<kbd>ServerStats</kbd>` (estadísticas en tiempo real) |
+| `stats-bot` | <kbd>ServerStats</kbd> (estadísticas en tiempo real) |
 | `wiki-bot` | Integración informativa (Wikipedia) |
 
 ---
