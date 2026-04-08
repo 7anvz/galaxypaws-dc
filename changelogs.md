@@ -103,16 +103,15 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 
 ### ‼️ Nuevos canales
 
-- `[text]` + `[announce]` + `[forums]` + `[voice]` + `[stage]` — Expansión completa
-- `[public]` / `[private]` — Separación de canales públicos y privados
-- `[nav]` — Navegación optimizada
+- `[text]` + `[announce]` + `[forums]` + `[voice]` + `[stage]` ⚑ Expansión completa
+- `[public]` / `[private]` ⚑ Separación de canales públicos y privados
+- `[nav]` ⚑ Navegación optimizada
 
 <details> 
   
 <summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ</summary>
 
-> [!IMPORTANT] 
-> Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
 
@@ -122,8 +121,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
   
 <summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴀɴᴜɴᴄɪᴏꜱ</summary>
 
-> [!IMPORTANT] 
-> Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#annc-general` \ `#annc-tournaments` \ `#activity-check` \ `#feedback-ideas`
 
@@ -133,8 +131,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
   
 <summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ꜰᴏʀᴏ</summary>
 
-> [!IMPORTANT] 
-> Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#clubs-forum` \ `#discussions` \ `#articles` \ `#events` \ 🔒 `#suggestions`
 
@@ -144,7 +141,7 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
   
 <summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ</summary>
 
-> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#hangout01` \ `#hangout02` \ `#hangout03` \ `#voice-chat` \ `#music` \ 🔒 `#room-staff`
 
@@ -154,14 +151,9 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
   
 <summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ᴇꜱᴄᴇɴᴀʀɪᴏ</summary>
 
-> [!IMPORTANT] 
-> *Los canales de texto que se muestran a continuación se*
+> ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#tournaments` \ `#galaxy`
-
-> [!IMPORTANT] 
-> *This update redefines how users interact, compete, and engage within the server.*
-**Major release** — Complete overhaul of systems, structure, and community experience.
 
 </details>
 
