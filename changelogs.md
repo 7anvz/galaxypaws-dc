@@ -109,26 +109,26 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-## 📂 Mapa del Sitio
+## Mapa del Sitio
 
 ### ‼️ Resumen de Infraestructura
 
-- <kbd>[Texto]</kbd> <kbd>[Anuncios]</kbd> <kbd>[Foros]</kbd> <kbd>[Voz]</kbd> <kbd>[Escenario]</kbd> Cobertura total de formatos de interacción.
-- `[Público]` / `[Privado]` Segmentación estricta de accesos por rol.
-- `[Índice]` Navegación estructurada mediante mensajes anclados.
+- <kbd>[Texto](https://www.google.com)</kbd> · <kbd>[Anuncios](https://www.google.com)</kbd> · <kbd>[Foros](https://www.google.com)</kbd> · <kbd>[Voz](https://www.google.com)</kbd> · <kbd>[Escenario](https://www.google.com)</kbd> — Cobertura total de formatos de interacción.
+- <kbd>[Público](https://www.google.com)</kbd> / <kbd>[Privado](https://www.google.com)</kbd> ⚑ Segmentación estricta de accesos por rol.
+- <kbd>[Índice](https://www.google.com)</kbd> ⚑ Navegación estructurada mediante mensajes anclados.
 
 > [!NOTE]
 > La distribución de estos canales responde a criterios de uso y privacidad. Consulte el mapa de [categorías](https://www.google.com) para su ubicación exacta.
 
-**Canales de Texto** `#tickets` \ `#updates` \ `#staff-hub` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#testing-grounds` \ 🔒 `#dev-roadmap` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#clan-chat` \ `#members-lounge` \ 🔒 `#media-vault` \ `#bot-commands` \ `#room67` \ `#tournament-pings` \ `#brackets` \ 🔒 `#event-staff` \ `#support-desk` \ `#off-topic` \ `#bug-tracker`
+**Canales de Texto** <kbd>[#tickets](https://www.google.com)</kbd> \ <kbd>[#updates](https://www.google.com)</kbd> \ <kbd>[#staff-hub](https://www.google.com)</kbd> \ <kbd>[#readme](https://www.google.com)</kbd> \ <kbd>[#rate-clips](https://www.google.com)</kbd> \ <kbd>[#clips-gameplay](https://www.google.com)</kbd> \ 🔒 <kbd>[#moderators](https://www.google.com)</kbd> \ 🔒 <kbd>[#testing-grounds](https://www.google.com)</kbd> \ 🔒 <kbd>[#dev-roadmap](https://www.google.com)</kbd> \ 🔒 <kbd>[#changelogs](https://www.google.com)</kbd> \ <kbd>[#team-up](https://www.google.com)</kbd> \ 🔒 <kbd>[#clan-chat](https://www.google.com)</kbd> \ <kbd>[#members-lounge](https://www.google.com)</kbd> \ 🔒 <kbd>[#media-vault](https://www.google.com)</kbd> \ <kbd>[#bot-commands](https://www.google.com)</kbd> \ <kbd>[#room67](https://www.google.com)</kbd> \ <kbd>[#tournament-pings](https://www.google.com)</kbd> \ <kbd>[#brackets](https://www.google.com)</kbd> \ 🔒 <kbd>[#event-staff](https://www.google.com)</kbd> \ <kbd>[#support-desk](https://www.google.com)</kbd> \ <kbd>[#off-topic](https://www.google.com)</kbd> \ <kbd>[#bug-tracker](https://www.google.com)</kbd>
 
-**Centros de Anuncios** `#global-announcements` \ `#tournament-news` \ `#activity-check` \ `#community-feedback`
+**Centros de Anuncios** <kbd>[#global-announcements](https://www.google.com)</kbd> \ <kbd>[#tournament-news](https://www.google.com)</kbd> \ <kbd>[#activity-check](https://www.google.com)</kbd> \ <kbd>[#community-feedback](https://www.google.com)</kbd>
 
-**Foros de Discusión** `#clubs-forum` \ `#general-discussion` \ `#guides-articles` \ `#event-planning` \ 🔒 `#suggestions-vault`
+**Foros de Discusión** <kbd>[#clubs-forum](https://www.google.com)</kbd> \ <kbd>[#general-discussion](https://www.google.com)</kbd> \ <kbd>[#guides-articles](https://www.google.com)</kbd> \ <kbd>[#event-planning](https://www.google.com)</kbd> \ 🔒 <kbd>[#suggestions-vault](https://www.google.com)</kbd>
 
-**Canales de Voz**  `#hangout-01` \ `#hangout-02` \ `#hangout-03` \ `#general-voice` \ `#music-lounge` \ 🔒 `#staff-briefing`
+**Canales de Voz** <kbd>[#hangout-01](https://www.google.com)</kbd> \ <kbd>[#hangout-02](https://www.google.com)</kbd> \ <kbd>[#hangout-03](https://www.google.com)</kbd> \ <kbd>[#general-voice](https://www.google.com)</kbd> \ <kbd>[#music-lounge](https://www.google.com)</kbd> \ 🔒 <kbd>[#staff-briefing](https://www.google.com)</kbd>
 
-**Escenarios y Conferencias**  `#tournament-stage` \ `#galaxy-main-stage`
+**Escenarios y Conferencias** <kbd>[#tournament-stage](https://www.google.com)</kbd> \ <kbd>[#galaxy-main-stage](https://www.google.com)</kbd>
 
 ---
 
