@@ -154,11 +154,8 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 <details> 
   
 <summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ᴇꜱᴄᴇɴᴀʀɪᴏ</summary>
-
-
 > [!IMPORTANT] 
 > Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
-
 
 `#tournaments` \ `#galaxy`
 
