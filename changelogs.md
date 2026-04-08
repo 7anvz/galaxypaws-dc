@@ -113,31 +113,21 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ### ‼️ Resumen de Infraestructura
 
-- <kbd>[Texto]</kbd> · <kbd>[Anuncios]</kbd> · <kbd>[Foros]</kbd> · <kbd>[Voz]</kbd> · <kbd>[Escenario]</kbd> — Cobertura total de formatos de interacción.
-- `[Público]` / `[Privado]` ⚑ Segmentación estricta de accesos por rol.
-- `[Índice]` ⚑ Navegación estructurada mediante mensajes anclados.
-
-### 📝 Canales de Texto
+- <kbd>[Texto]</kbd> <kbd>[Anuncios]</kbd> <kbd>[Foros]</kbd> <kbd>[Voz]</kbd> <kbd>[Escenario]</kbd> Cobertura total de formatos de interacción.
+- `[Público]` / `[Privado]` Segmentación estricta de accesos por rol.
+- `[Índice]` Navegación estructurada mediante mensajes anclados.
 
 > La distribución de estos canales responde a criterios de uso y privacidad. Consulte el mapa de [categorías](https://www.google.com) para su ubicación exacta.
 
-`#tickets` \ `#updates` \ `#staff-hub` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#testing-grounds` \ 🔒 `#dev-roadmap` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#clan-chat` \ `#members-lounge` \ 🔒 `#media-vault` \ `#bot-commands` \ `#room67` \ `#tournament-pings` \ `#brackets` \ 🔒 `#event-staff` \ `#support-desk` \ `#off-topic` \ `#bug-tracker`
+**Canales de Texto** `#tickets` \ `#updates` \ `#staff-hub` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#testing-grounds` \ 🔒 `#dev-roadmap` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#clan-chat` \ `#members-lounge` \ 🔒 `#media-vault` \ `#bot-commands` \ `#room67` \ `#tournament-pings` \ `#brackets` \ 🔒 `#event-staff` \ `#support-desk` \ `#off-topic` \ `#bug-tracker`
 
-### 📢 Centros de Anuncios
+**Centros de Anuncios** `#global-announcements` \ `#tournament-news` \ `#activity-check` \ `#community-feedback`
 
-`#global-announcements` \ `#tournament-news` \ `#activity-check` \ `#community-feedback`
+**Foros de Discusión** `#clubs-forum` \ `#general-discussion` \ `#guides-articles` \ `#event-planning` \ 🔒 `#suggestions-vault`
 
-### 💬 Foros de Discusión
+**Canales de Voz**  `#hangout-01` \ `#hangout-02` \ `#hangout-03` \ `#general-voice` \ `#music-lounge` \ 🔒 `#staff-briefing`
 
-`#clubs-forum` \ `#general-discussion` \ `#guides-articles` \ `#event-planning` \ 🔒 `#suggestions-vault`
-
-### 🔊 Canales de Voz
-
-`#hangout-01` \ `#hangout-02` \ `#hangout-03` \ `#general-voice` \ `#music-lounge` \ 🔒 `#staff-briefing`
-
-### 🎤 Escenarios y Conferencias
-
-`#tournament-stage` \ `#galaxy-main-stage`
+**Escenarios y Conferencias**  `#tournament-stage` \ `#galaxy-main-stage`
 
 ---
 
