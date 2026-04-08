@@ -106,15 +106,12 @@ La nueva actualización trae nuevas funciones, nuevos comandos, y un nuevo toque
 - `[public]` / `[private]` ⚑ Separación de canales públicos y privados
 - `[nav]` ⚑ Navegación optimizada
 
-<details> 
   
-<summary> #canales-de-texto</summary>
+### Canales de texto
 
 > ⚠︎ Los canales de texto que se muestran a continuación se crearán en diferentes [categorias](https://www.google.com) del servidor, y algunos de estos serán privados o se abrirán únicamente en [fechas especiales](https://www.google.com).
 
 `#tickets` \ `#updates` \ `#staff-team` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#apps-testing` \ 🔒 `#roadmap-server` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#tag-glpaws` \ 🔒 `#chat-galaxy` \ `#members-glpaws` \ 🔒 `#multimedia` \ `#cmds` \ `#room67` \ `#tournament-reminders` \ `#bracket-update` \ 🔒 `#chat-trmt` \ `#ask-for-help` \ `#off-topic` \ `#bug-reports`
-
-</details>
 
 <details> 
   
