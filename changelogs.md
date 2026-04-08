@@ -117,17 +117,46 @@ Los canales de texto que se muestran a continuación se crearán en diferentes c
 
 </details>
 
-### ⮑ Canales de anuncios
+<details> 
+  
+<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴀɴᴜɴᴄɪᴏꜱ</summary>
+
+Los canales de anuncios que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+
 `#annc-general` \ `#annc-tournaments` \ `#activity-check` \ `#feedback-ideas`
 
-### ⮑ Canales tipo foro
+</details>
+
+<details> 
+  
+<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ꜰᴏʀᴏ</summary>
+
+Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+
 `#clubs-forum` \ `#discussions` \ `#articles` \ `#events` \ 🔒 `#suggestions`
 
-### ⮑ Canales de voz
+</details>
+
+<details> 
+  
+<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ</summary>
+
+Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+
 `#hangout01` \ `#hangout02` \ `#hangout03` \ `#voice-chat` \ `#music` \ 🔒 `#room-staff`
 
-### ⮑ Canales tipo escenario
+</details>
+
+<details> 
+  
+<summary> ☆ ᴄᴀɴᴀʟᴇꜱ ᴛɪᴘᴏ ᴇꜱᴄᴇɴᴀʀɪᴏ</summary>
+
+Los canales de texto que se muestran a continuación se crearán en diferentes categorías del servidor, y algunos de estos serán privados o se abrirán únicamente en fechas especiales.
+
 `#tournaments` \ `#galaxy`
+
+</details>
+
 
 ---
 
