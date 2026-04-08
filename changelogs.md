@@ -160,6 +160,3 @@ Documentación sujeta a iteraciones continuas. Para consultas técnicas o inter�
 [coverage-url]: #
 [version]: https://img.shields.io/badge/version-2.0.0-blue
 [version-url]: #
-
-```
-```
