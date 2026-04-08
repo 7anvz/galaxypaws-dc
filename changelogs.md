@@ -117,6 +117,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 - `[Público]` / `[Privado]` Segmentación estricta de accesos por rol.
 - `[Índice]` Navegación estructurada mediante mensajes anclados.
 
+> [!NOTE]
 > La distribución de estos canales responde a criterios de uso y privacidad. Consulte el mapa de [categorías](https://www.google.com) para su ubicación exacta.
 
 **Canales de Texto** `#tickets` \ `#updates` \ `#staff-hub` \ `#readme` \ `#rate-clips` \ `#clips-gameplay` \ 🔒 `#moderators` \ 🔒 `#testing-grounds` \ 🔒 `#dev-roadmap` \ 🔒 `#changelogs` \ `#team-up` \ 🔒 `#clan-chat` \ `#members-lounge` \ 🔒 `#media-vault` \ `#bot-commands` \ `#room67` \ `#tournament-pings` \ `#brackets` \ 🔒 `#event-staff` \ `#support-desk` \ `#off-topic` \ `#bug-tracker`
@@ -141,8 +142,8 @@ Bots Integrados: 6
 Canales Activos: 40+
 ```
 
-[!WARNING]
-Documentación sujeta a iteraciones continuas. Para consultas técnicas o interés en contribuir al repositorio, contacte con el desarrollador principal o el equipo de soporte.
+> [!WARNING]
+> Documentación sujeta a iteraciones continuas. Para consultas técnicas o interés en contribuir al repositorio, contacte con el desarrollador principal o el equipo de soporte.
 
 <!-- conventional-changelog -->
 [build]: https://img.shields.io/badge/build-passing-brightgreen
