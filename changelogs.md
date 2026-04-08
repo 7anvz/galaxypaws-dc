@@ -191,7 +191,13 @@ A continuación se muestra el estado anterior del servidor:
 `#room-staff` 🔒  
 
 ---
-
+<!-- conventional-changelog -->
+[build]: https://img.shields.io/badge/build-passing-brightgreen
+[build-url]: #
+[coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
+[coverage-url]: #
+[version]: https://img.shields.io/badge/version-2.0.0-blue
+[version-url]: #
 ### Canales tipo escenario
 
 `#tournaments`  
