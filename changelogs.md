@@ -12,7 +12,7 @@ g<p align="center">
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-<p>Galaxy Paws es una comunidad de jugadores de [sigmally](https:\\www.google.com), también es un clan, pero principalmente la consideramos un grupo de amigos para pasarla bien y divertirse. usando tanto canales de texto como de voz. Este cuenta con xxxx miembros hasta la fecha : <kbd>(6/04/2026)</kbd></p>
+<p>Galaxy Paws es una comunidad de jugadores de <a href"https://www.google.com>sigmally</a>, también es un clan, pero principalmente la consideramos un grupo de amigos para pasarla bien y divertirse. usando tanto canales de texto como de voz. Este cuenta con xxxx miembros hasta la fecha : <kbd>(6/04/2026)</kbd></p>
 
 ---
 
