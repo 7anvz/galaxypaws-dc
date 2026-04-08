@@ -30,7 +30,7 @@ A continuación se detalla la transición desde la estructura previa (estática 
 
 ---
 
-## 🚀 Implementaciones Destacadas
+<h2 align="center">»»» Implementaciones Destacadas «««</h2>
 
 Esta actualización introduce sistemas automatizados, comandos de nueva generación y espacios dedicados que elevan el estándar de calidad de la comunidad.
 
@@ -63,7 +63,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-## 🔧 Optimización de Experiencia (UX/UI)
+<h2 align="center">»»» Optimización de Experiencia (UX/UI) «««</h2>
 
 | Ámbito | Intervención | Descripción del Cambio |
 |:-------|:-------------|:-----------------------|
@@ -79,7 +79,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-## 🛡️ Estabilidad y Parches de Seguridad
+<h2 align="center">»»» Estabilidad y Parches de Seguridad «««</h2>
 
 | Módulo | Acción Correctiva |
 |:-------|:------------------|
@@ -90,7 +90,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-## 🤖 Infraestructura de Bots
+<h2 align="center">»»» Infraestructura de Bots «««</h2>
 
 | Clasificación | Función Principal |
 |:--------------|:------------------|
@@ -103,7 +103,7 @@ Esta actualización introduce sistemas automatizados, comandos de nueva generaci
 
 ---
 
-## 🌏 Mapa del Sitio
+<h2 align="center">»»» 🌏 Mapa del Sitio «««</h2>
 
 ### Resumen de Infraestructura
 
