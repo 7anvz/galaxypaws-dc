@@ -16,7 +16,7 @@
 
 ---
 
-### 📌 Antecedentes y Visión
+<h2 align="center">»»» Antecedentes y Visión «««</h2>
 
 Tras un período de menor actividad, anunciamos oficialmente la reactivación total de la comunidad. Para ello presentamos la **Actualización 2.0**, una versión completamente renovada de Galaxy Paws diseñada para destacar en el ecosistema de Discord y ofrecer una experiencia de usuario sin precedentes.
 
