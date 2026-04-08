@@ -20,13 +20,7 @@
 
 Tras un período de menor actividad, anunciamos oficialmente la reactivación total de la comunidad. Para ello presentamos la **Actualización 2.0**, una versión completamente renovada de Galaxy Paws diseñada para destacar en el ecosistema de Discord y ofrecer una experiencia de usuario sin precedentes.
 
-A continuación se detalla la transición desde la estructura previa (estática y desorganizada) hacia el nuevo ecosistema de funcionalidades, correcciones y optimizaciones.
-
-<p align="center">
-  <img src="server.png" alt="Server actualización 2.0">
-  <br>
-  <em><b>Arquitectura del Servidor — 06/04/2026</b></em>
-</p>
+A continuación se detalla la transición desde la estructura previa (estática y desorganizada) hacia el nuevo ecosistema de funcionalidades, correcciones y optimizaciones, [aquí](https://www.google.com).
 
 - **Documentación Técnica:** Para desarrolladores interesados en la estructura de `Cmnty-Sig`, consulten nuestra [documentación oficial](https://www.google.com).
 - **Guía Rápida:** Los cambios se sincronizan en tiempo real en nuestro [portal de Discord](https://www.googlw.com). Descarga offline disponible [aquí](https://www.google.com).
