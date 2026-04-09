@@ -28,7 +28,7 @@ A continuación se detalla la transición desde la estructura previa (estática 
 - **Guía Rápida:** Los cambios se sincronizan en tiempo real en nuestro [portal de Discord](https://www.googlw.com).Puedes ver cada una de nuestras actualizaciones por ahí, o descarga offline disponible [aquí](https://www.google.com) o en nuestra página!
 
 > [!IMPORTANT] 
-> Los recursos de diseño y plantillas de marca están disponibles en nuestra [carpeta de archivos](https://www.google.com). Consulta la [guía de estilo](https://www.google.com) para aprender más. Si tienes dudas puedes comunicarte con nosotros
+> **Diseño de comunidad:** Los recursos de diseño y plantillas de marca están disponibles en nuestra [carpeta de archivos](https://www.google.com). Consulta la [guía de estilo](https://www.google.com) para aprender más. Si tienes dudas puedes comunicarte con nosotros
 
 ---
 
