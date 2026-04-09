@@ -12,7 +12,7 @@
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-<p>Hey! 👋🏻 Whats up? Bienvenido al <kbd>Changelog</kbd> de Galaxy Paws 🌏<br><b>Galaxy Paws</b> es una comunidad y clan de jugadores de <a href="https://www.google.com";>Sigmally</a>, construida sobre la base de la amistad y el entretenimiento colectivo. Hasta la fecha <kbd>(6/04/2026)</kbd> contamos con xxxx miembros tanto en canales de texto como de voz.</p>
+<p>Hey! 👋🏻 Whats up? Bienvenido al <kbd>Changelog</kbd> de Galaxy Paws 🌏<br><b>Galaxy Paws</b> es una comunidad y clan de jugadores de <a href="https://www.google.com";>Sigmally</a>, construida sobre la base de la amistad y el entretenimiento colectivo. Hasta la fecha <kbd>(6/04/2026)</kbd> contamos con xxxx miembros tanto en canales de texto como de voz.</p> Aquí encontrarás el paso a paso de los cambios y actualizaciones de nuestro server!
 
 ---
 
