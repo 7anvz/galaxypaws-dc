@@ -24,7 +24,7 @@ Tras un período de menor actividad, anunciamos oficialmente la reactivación to
 
 A continuación se detalla la transición desde la estructura previa (estática y desorganizada) hacia el nuevo ecosistema de funcionalidades, correcciones y optimizaciones, [aquí](https://www.google.com).
 
-- **Documentación Técnica:** Para desarrolladores interesados en la estructura de `Cmnty-Sig`, consulten nuestra [documentación oficial](https://www.google.com).
+- **Documentación Técnica:** Para desarrolladores interesados en la estructura de `Cmnty-Sig`, consulten nuestra [documentación oficial](https://www.google.com).También te recomendamos ver la guía oficial de Discord.
 - **Guía Rápida:** Los cambios se sincronizan en tiempo real en nuestro [portal de Discord](https://www.googlw.com). Descarga offline disponible [aquí](https://www.google.com) o en nuestra página!
 
 > [!IMPORTANT] 
