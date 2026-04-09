@@ -36,20 +36,20 @@ A continuación se detalla la transición desde la estructura previa (estática 
 
 Esta actualización introduce sistemas automatizados, comandos de nueva generación y espacios dedicados que elevan el estándar de calidad de la comunidad.
 
-> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados. El bot principal de nuestra comunidad se llamará: **(Por definir)**
+> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados. El bot principal de nuestra comunidad se llamará: 🔄 **(Por definir)**
 
 | Tipo | Componente | Especificaciones Técnicas y Funcionales |
 |:-----|:-----------|:-----------------------------------------|
-| `cmd` | <kbd>/profile</kbd> | Motor de perfiles dinámicos. Visualización de estadísticas de juego, rango y tiempo de actividad en el servidor. |
-| `cmd` | <kbd>/team</kbd> | Sistema de matchmaking interno. Notificación push al rol `@team` para búsqueda de escuadrón en partidas y torneos. |
-| `sys` | **Galaxy Achievements** | Sistema de insignias y logros escalonados: `Rookie`, `Epic`, `Legend`, `Mythic`, `Ascendant`. Desbloqueables por participación, victorias y contribuciones. |
-| `sys` | **Ticket Hub** | Menú de navegación interactivo en `#support-guidelines`. Clasificación automática de incidencias y visualización de políticas de soporte. |
-| `auto` | **Inactivity Sweeper** | Escaneo automático a los 14 días. Asignación de rol `Inactive` y envío de notificación de retorno para depuración de miembros. |
-| `auto` | **DM Onboarding** | Flujo de bienvenida automatizado vía mensaje directo. Incluye onboarding visual, enlaces clave y CTA para invitaciones. |
-| `event` | **Competitive Circuit** | Infraestructura para torneos oficiales con reglamento definido y eventos de temporada exclusivos de Sigmally. |
-| `event` | **Clip of the Year** | Certamen anual de contenido viral. Premios y reconocimiento para las jugadas más destacadas de la comunidad. |
-| `channel` | **Creator Space** | Hub de contenido: `#clips-gameplay` para publicación y `#rate-clips` para curaduría comunitaria y feedback. |
-| `lib` | **Resource Library** | Repositorio de assets de juego (skins, configs, macros). Acceso multicanal sincronizado con la web. |
+| `cmd` | <kbd>/profile</kbd> | 🔄 Motor de perfiles dinámicos. Visualización de estadísticas de juego, rango y tiempo de actividad en el servidor. |
+| `cmd` | <kbd>/team</kbd> | 🔄 Sistema de matchmaking interno. Notificación push al rol `@team` para búsqueda de escuadrón en partidas y torneos. |
+| `sys` | **Galaxy Achievements** | 🔄 Sistema de insignias y logros escalonados: `Rookie`, `Epic`, `Legend`, `Mythic`, `Ascendant`. Desbloqueables por participación, victorias y contribuciones. |
+| `sys` | **Ticket Hub** | 🔄 Menú de navegación interactivo en `#support-guidelines`. Clasificación automática de incidencias y visualización de políticas de soporte. |
+| `auto` | **Inactivity Sweeper** | 🔄 Escaneo automático a los 14 días. Asignación de rol `Inactive` y envío de notificación de retorno para depuración de miembros. |
+| `auto` | **DM Onboarding** | ✅ Flujo de bienvenida automatizado vía mensaje directo. Incluye onboarding visual, enlaces clave y CTA para invitaciones. |
+| `event` | **Competitive Circuit** | 🔄 Infraestructura para torneos oficiales con reglamento definido y eventos de temporada exclusivos de Sigmally. |
+| `event` | **Clip of the Year** | ⚠️ Certamen anual de contenido viral. Premios y reconocimiento para las jugadas más destacadas de la comunidad. |
+| `channel` | **Creator Space** | 🔄 Hub de contenido: `#clips-gameplay` para publicación y `#rate-clips` para curaduría comunitaria y feedback. |
+| `lib` | **Resource Library** | 🔄 Repositorio de assets de juego (skins, configs, macros). Acceso multicanal sincronizado con la web. |
 | `docs` | **Player Knowledge Base** | Wiki externa con guías y documentación avanzada para la comunidad de Sigmally. |
 | `info` | **Dynamic FAQ** | Canal de preguntas frecuentes con actualización bidireccional entre el servidor y la página web. |
 | `bot` | **Wiki-Integration** | Módulo de consulta a Wikipedia en tiempo real mediante comandos de barra. |
