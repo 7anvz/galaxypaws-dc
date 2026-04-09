@@ -12,15 +12,15 @@
 [![Coverage Status][coverage]][coverage-url]
 [![Version][version]][version-url]
 
-### Hey! 👋🏻 Whats up? Bienvenido al "Changelog" de Galaxy Paws 🧸<br>
+### Hey! 👋🏻 Whats up? Bienvenid@ al "Changelog" de Galaxy Paws 🧸<br>
 
-<p><b>Galaxy Paws</b> es una comunidad y clan de jugadores de <a href="https://www.google.com";>Sigmally</a>, construida sobre la base de la amistad y el entretenimiento colectivo. Hasta la fecha <kbd>(6/04/2026)</kbd> contamos con xxxx miembros tanto en canales de texto como de voz.Aquí encontrarás el paso a paso de los cambios y actualizaciones de nuestro server!</p> 
+<p><b>Galaxy Paws</b> es una comunidad y clan de jugadores de <a href="https://www.google.com";>Sigmally</a>, construida sobre la base de la amistad y el entretenimiento colectivo. Hasta la fecha <kbd>(9/04/2026)</kbd> contamos con 29 miembros, con los cuales interactuamos tanto en canales de texto como de voz.Aquí encontrarás el paso a paso de los cambios y actualizaciones de nuestro server!</p> 
 
 ---
 
 <h2 align="center">»»» Antecedentes y visión «««</h2>
 
-Tras un período de menor actividad, anunciamos oficialmente la reactivación total de la comunidad. Para ello presentamos la **Actualización 2.0**, una versión completamente renovada de Galaxy Paws diseñada para destacar en el ecosistema de Discord y ofrecer una experiencia de usuario sin precedentes.
+Tras un período de menor actividad, anunciamos oficialmente la reactivación total de la comunidad. Para ello presentamos la <kbd>Actualización 2.0 ✨</kbd>, una versión completamente renovada de Galaxy Paws diseñada para destacar en el ecosistema de Discord y ofrecer una experiencia de usuario sin precedentes.
 
 A continuación se detalla la transición desde la estructura previa (estática y desorganizada) hacia el nuevo ecosistema de funcionalidades, correcciones y optimizaciones, [aquí](https://www.google.com).
 
