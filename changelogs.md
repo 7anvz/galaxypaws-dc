@@ -36,7 +36,7 @@ A continuación se detalla la transición desde la estructura previa (estática 
 
 Esta actualización introduce sistemas automatizados, comandos de nueva generación y espacios dedicados que elevan el estándar de calidad de la comunidad.
 
-> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados.
+> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados. El bot principal de nuestra comunidad se llamará: **Nickname**
 
 | Tipo | Componente | Especificaciones Técnicas y Funcionales |
 |:-----|:-----------|:-----------------------------------------|
