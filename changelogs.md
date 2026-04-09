@@ -25,7 +25,7 @@ Tras un período de menor actividad, anunciamos oficialmente la reactivación to
 A continuación se detalla la transición desde la estructura previa (estática y desorganizada) hacia el nuevo ecosistema de funcionalidades, correcciones y optimizaciones, [aquí](https://www.google.com).
 
 - **Documentación Técnica:** Para desarrolladores interesados en la estructura de `Cmnty-Sig`, consulten nuestra [documentación oficial](https://www.google.com).También te recomendamos ver la guía oficial de Discord.
-- **Guía Rápida:** Los cambios se sincronizan en tiempo real en nuestro [portal de Discord](https://www.googlw.com).Puedes ver cada una de nuestras actualizaciones por ahí, o descarga offline disponible [aquí](https://www.google.com) o en nuestra página!
+- **Guía Rápida:** Los cambios se sincronizan en tiempo real en nuestro [portal de Discord](https://www.googlw.com).Puedes ver cada una de nuestras actualizaciones por ahí, o puedes descargar offline disponible [aquí](https://www.google.com) o en nuestra página!
 
 > [!IMPORTANT] 
 > **Diseño de comunidad:** Los recursos de diseño y plantillas de marca están disponibles en nuestra [carpeta de archivos](https://www.google.com). Consulta la [guía de estilo](https://www.google.com) para aprender más. Si tienes dudas puedes comunicarte con nosotros
@@ -36,7 +36,7 @@ A continuación se detalla la transición desde la estructura previa (estática 
 
 Esta actualización introduce sistemas automatizados, comandos de nueva generación y espacios dedicados que elevan el estándar de calidad de la comunidad.
 
-> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados. El bot principal de nuestra comunidad se llamará: **Nickname**
+> Se ha completado la integración con [BotGhost](https://www.google.com), un panel de control avanzado para la gestión de bots personalizados. El bot principal de nuestra comunidad se llamará: **(Por definir)**
 
 | Tipo | Componente | Especificaciones Técnicas y Funcionales |
 |:-----|:-----------|:-----------------------------------------|
